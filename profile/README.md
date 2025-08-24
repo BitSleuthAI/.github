@@ -24,10 +24,10 @@ Welcome to **BitSleuth** - your AI assistant for Bitcoin wallet analysis and sec
 
 ## 🎯 What We Offer
 
-| Tool               | Purpose                          | Key Features                                                                                                                                            |
-| ------------------ | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Wallet Analyzer**| Investigate any BTC address      | • Visualize transaction flows<br>• AI-driven wallet explanations (“Where did these coins come from?”, “Potential mixing?”)<br>• OPSEC risk alerts |
-| **Privacy Wallet** | Secure, non-custodial Bitcoin storage | • Client-side encryption<br>• Advanced privacy features to reduce on-chain exposure and address reuse                                                 |
+| **Tool** | **Purpose** | **Key Features** |
+| :---: | :---: | :---: |
+| **Wallet Analyzer**| Investigate any BTC address | • Visualize transaction flows<br>• AI-driven wallet explanations (“Where did these coins come from?”, “Potential mixing?”)<br>• OPSEC risk alerts |
+| **Privacy Wallet** | Secure, non-custodial Bitcoin storage | • Client-side encryption<br>• Advanced privacy features to reduce on-chain exposure and address reuse |
 
 ---
 
@@ -56,19 +56,12 @@ Built by privacy-driven developers, **BitSleuth** empowers Bitcoiners to reclaim
 
 ---
 
-## 📂 Repositories
-
--   **`bitsleuth-analyzer`** - Core AI logic & visualization backend.
--   **`bitsleuth-wallet`** - Browser-based, privacy-enhanced wallet front-end.
-
-> Contributions, bug reports, and feature ideas are all welcome!
-
----
-
 ## 📬 Contact & Community
 
 -   Found a bug? Report it through [GitHub Issues](https://github.com/BitSleuthAI/.github/issues).
 -   Have feedback or feature ideas? Contribute through [GitHub Discussions](https://github.com/BitSleuthAI/.github/discussions)!
+
+Both can be found in the .github Public repo.
 
 ---
 
