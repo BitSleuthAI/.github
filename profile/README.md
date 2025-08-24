@@ -12,13 +12,13 @@
 
 ---
 
-Welcome to **BitSleuth**—your AI assistant for Bitcoin wallet analysis and secure, privacy-first wallet management.
+Welcome to **BitSleuth** - your AI assistant for Bitcoin wallet analysis and secure, privacy-first wallet management.
 
 ## 🚀 Explore our suite of tools:
 
--   **[Landing Page & Info](https://www.bitsleuth.ai)** – Learn what we’re building and why
--   **[Wallet Analyzer App](https://app.bitsleuth.ai)** – AI-powered insights, transaction visualizations, OPSEC risk detection
--   **[Private Wallet](https://wallet.bitsleuth.ai)** – Client-side encrypted, privacy-focused, intuitive Bitcoin wallet
+-   **[Landing Page & Info](https://www.bitsleuth.ai)** - Learn what we’re building and why
+-   **[Wallet Analyzer App](https://app.bitsleuth.ai)** - AI-powered insights, transaction visualizations, OPSEC risk detection
+-   **[Private Wallet](https://wallet.bitsleuth.ai)** - Client-side encrypted, privacy-focused, intuitive Bitcoin wallet
 
 ---
 
@@ -33,7 +33,7 @@ Welcome to **BitSleuth**—your AI assistant for Bitcoin wallet analysis and sec
 
 ## ✨ Our Mission
 
-Built by privacy-driven developers, **BitSleuth** empowers Bitcoiners to reclaim transparency and security—whether you're visualizing fund movement or safeguarding your privacy on-chain.
+Built by privacy-driven developers, **BitSleuth** empowers Bitcoiners to reclaim transparency and security - whether you're visualizing fund movement or safeguarding your privacy on-chain.
 
 ---
 
@@ -41,8 +41,8 @@ Built by privacy-driven developers, **BitSleuth** empowers Bitcoiners to reclaim
 
 -   **🤖 AI-Enhanced Clarity:** Turn blockchain complexity into plain-language insights with AI-powered wallet explanations.
 -   **📊 Visual Intelligence:** Flow maps, transaction graphs, and summary dashboards help spot patterns and anomalies instantly.
--   **🛡️ Privacy First:** Wallet built to minimize traceability—designed for users who value anonymity and security.
--   **💬 Feedback-Friendly:** Still evolving—your feedback helps shape the future. Connect via Nostr or submit suggestions through the app.
+-   **🛡️ Privacy First:** Wallet built to minimize traceability - designed for users who value anonymity and security.
+-   **💬 Feedback-Friendly:** Still evolving - your feedback helps shape the future. Connect via Nostr or submit suggestions through the app.
 
 ---
 
@@ -58,8 +58,8 @@ Built by privacy-driven developers, **BitSleuth** empowers Bitcoiners to reclaim
 
 ## 📂 Repositories
 
--   **`bitsleuth-analyzer`** – Core AI logic & visualization backend.
--   **`bitsleuth-wallet`** – Browser-based, privacy-enhanced wallet front-end.
+-   **`bitsleuth-analyzer`** - Core AI logic & visualization backend.
+-   **`bitsleuth-wallet`** - Browser-based, privacy-enhanced wallet front-end.
 
 > Contributions, bug reports, and feature ideas are all welcome!
 
@@ -67,14 +67,14 @@ Built by privacy-driven developers, **BitSleuth** empowers Bitcoiners to reclaim
 
 ## 📬 Contact & Community
 
--   Connect with us on **[Nostr](https://nostr.com/npub1t78qlukpy32evcmwlp82mvcwezwv6mky0uhk4s58vdaq09q8245s44mhep)**.
--   Found a bug or have feedback? Share it—either via the app or through GitHub issues.
+-   Found a bug? Report it through [GitHub Issues](https://github.com/BitSleuthAI/.github/issues).
+-   Have feedback or feature ideas? Contribute through [GitHub Discussions](https://github.com/BitSleuthAI/.github/discussions)!
 
 ---
 
 <div align="center">
 
-**Happy sleuthing!**  
+**Happy sleuting!**  
 The BitSleuth Team
 
 </div>
