@@ -5,7 +5,7 @@
   <p>
     <a href="https://www.bitsleuth.ai">Website</a> |
     <a href="https://app.bitsleuth.ai">Wallet Analyzer</a> |
-    <a href="https://wallet.bitsleuth.ai">Privacy Wallet</a> |
+    <a href="https://www.bitsleuth.ai/wallet">Privacy Wallet</a> |
     <a href="https://nostr.com/npub1t78qlukpy32evcmwlp82mvcwezwv6mky0uhk4s58vdaq09q8245s44mhep">Nostr</a>
   </p>
 </div>
@@ -18,7 +18,7 @@ Welcome to **BitSleuth** - your AI assistant for Bitcoin wallet analysis and sec
 
 -   **[Landing Page & Info](https://www.bitsleuth.ai)** - Learn what we’re building and why
 -   **[Wallet Analyzer App](https://app.bitsleuth.ai)** - AI-powered insights, transaction visualizations, OPSEC risk detection
--   **[Private Wallet](https://wallet.bitsleuth.ai)** - Client-side encrypted, privacy-focused, intuitive Bitcoin wallet
+-   **[Private Wallet](https://www.bitsleuth.ai/wallet)** - Client-side encrypted, privacy-focused, intuitive Bitcoin wallet
 
 ---
 
@@ -50,7 +50,7 @@ Built by privacy-driven developers, **BitSleuth** empowers Bitcoiners to reclaim
 
 -   **Live Tools**
     -   [Wallet Analyzer → app.bitsleuth.ai](https://app.bitsleuth.ai)
-    -   [Privacy Wallet → wallet.bitsleuth.ai](https://wallet.bitsleuth.ai)
+    -   [Privacy Wallet → www.bitsleuth.ai/wallet](https://www.bitsleuth.ai/wallet)
 -   **Learn More**: [Landing page → bitsleuth.ai](https://www.bitsleuth.ai)
 -   **Source Code**: Explore our repositories below.
 
