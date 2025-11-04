@@ -67,7 +67,7 @@ Both can be found in the .github Public repo.
 
 <div align="center">
 
-**Happy sleuting!**  
+**Happy Sleuthing!**  
 The BitSleuth Team
 
 </div>
